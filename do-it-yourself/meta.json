@@ -1,0 +1,8 @@
+{
+    "name": "Do It Yourself",
+    "order": 6,
+    "files": {
+        "custom-array": "Custom Array",
+        "custom-promise": "Custom Promise"
+    }
+}

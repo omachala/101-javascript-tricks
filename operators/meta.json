@@ -1,0 +1,8 @@
+{
+    "name": "Operators",
+    "order": 1,
+    "files": {
+        "in": "IN",
+        "comma": "Comma"
+    }
+}
