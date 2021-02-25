@@ -2,7 +2,7 @@
 
 > beginner
 
-The (delete)[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/delete] operator deletes an object's property.
+The [delete](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/delete) operator deletes an object's property.
 
 If the operation is possible then `true` is returned and object is modified inplace. The `false` is returned if operation failed.
 

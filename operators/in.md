@@ -10,7 +10,8 @@ The [in](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Opera
 ```
 
 For the arrays the array index is considered as a property:
+
 ```js
-"b" in ["a", "b"] // false
-1 in ["a", "b"] // true
+"b" in ["a", "b"]; // false
+1 in ["a", "b"]; // true
 ```

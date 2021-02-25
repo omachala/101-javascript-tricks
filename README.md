@@ -17,5 +17,7 @@ The **Opinion** options:
 
 ---
 - [Operators](operators)
+- [Build-in Objects](build-in-objects)
+- [Arrays](arrays)
 - [Do It Yourself](do-it-yourself)
 ---

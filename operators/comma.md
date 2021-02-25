@@ -12,16 +12,19 @@ y; // 100
 ```
 
 This can be handy for `reduce` array method where you want to do a simple operation and return accumulator.
+
 ```js
-['a', 'b', 'c'].reduce((acc, char) => (acc[char] = true, acc), {}); // { a: true, b: true, c: true }
+["a", "b", "c"].reduce((acc, char) => ((acc[char] = true), acc), {}); // { a: true, b: true, c: true }
 ```
 
 You can supply multiple parameters in a `for` loop:
+
 ```js
 for (let x = 0, y = 100; x <= 100; y++, y--) { ... }
 ```
 
 Or define multiple variables:
+
 ```js
 let a, b, c;
 ```

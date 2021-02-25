@@ -3,6 +3,7 @@
 this is operators section description
 
 ---
+
 - [Delete](delete)
 - [In operator](in)
 - [Comma operator](comma)
@@ -11,4 +12,3 @@ this is operators section description
 - [Nullish coalescing](nullish-coalescing)
 - [Logical nullish assignment](logical-nullish-assignment)
 - [Bitwise](bitwise)
----
