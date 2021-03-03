@@ -20,7 +20,9 @@ This can be handy for `reduce` array method where you want to do a simple operat
 You can supply multiple parameters in a `for` loop:
 
 ```js
-for (let x = 0, y = 100; x <= 100; y++, y--) { ... }
+for (let x = 0, y = 100; x <= 100; y++, y--) {
+  console.log(x, y);
+}
 ```
 
 Or define multiple variables:

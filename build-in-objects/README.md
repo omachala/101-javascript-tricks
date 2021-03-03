@@ -3,5 +3,3 @@
 ---
 
 - [Infinity](infinity)
-
----
