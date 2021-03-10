@@ -11,4 +11,5 @@ this is operators section description
 - [Optional chaining](optiona-chaining)
 - [Nullish coalescing](nullish-coalescing)
 - [Logical nullish assignment](logical-nullish-assignment)
+- [Typeof vs Instanceof](typeof-instanceof)
 - [Bitwise](bitwise)
