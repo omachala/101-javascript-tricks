@@ -4,8 +4,11 @@ this is operators section description
 
 ---
 
+- [Assignments](assignments)
 - [Delete](delete)
 - [In operator](in)
+- [Spread](spread)
+- [Exponentiation](exponentiation)
 - [Comma operator](comma)
 - [Void](void)
 - [Optional chaining](optiona-chaining)
