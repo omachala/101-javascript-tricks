@@ -3,3 +3,4 @@
 ---
 
 - [Infinity](infinity)
+- [Map](map)
