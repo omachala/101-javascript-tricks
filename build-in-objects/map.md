@@ -17,6 +17,7 @@ Advantages **Map** over standard object:
 ```js
 const cats = new Map();
 cats.set("bella", { color: "ginger" }).set("daisy", { color: "black" });
+cats.size; // 2
 cats.has("bella"); // true
 cats.get("bella"); // { color: 'ginger' }
 ```
