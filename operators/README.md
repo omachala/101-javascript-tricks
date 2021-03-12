@@ -4,7 +4,9 @@ this is operators section description
 
 ---
 
+- [Equality](Equality)
 - [Assignments](assignments)
+- [Ternary](ternary)
 - [Delete](delete)
 - [In operator](in)
 - [Spread](spread)
