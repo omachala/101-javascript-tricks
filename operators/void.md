@@ -1,4 +1,4 @@
-### Void
+### Void operator
 
 > expert
 

@@ -1,4 +1,4 @@
-### Bitwise
+### Bitwise operator
 
 > expert
 

@@ -1,4 +1,4 @@
-### Delete
+### Delete operator
 
 > beginner
 

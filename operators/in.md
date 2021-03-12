@@ -1,4 +1,4 @@
-### IN
+### In operator
 
 > intermediate
 

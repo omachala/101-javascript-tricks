@@ -1,4 +1,4 @@
-### Equality
+### Equality operators
 
 > beginner
 

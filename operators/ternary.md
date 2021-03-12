@@ -1,4 +1,4 @@
-### Ternary
+### Ternary operator
 
 > beginner
 

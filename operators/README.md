@@ -4,7 +4,7 @@ this is operators section description
 
 ---
 
-- [Equality](Equality)
+- [Equality](equality)
 - [Assignments](assignments)
 - [Ternary](ternary)
 - [Delete](delete)
@@ -13,7 +13,7 @@ this is operators section description
 - [Exponentiation](exponentiation)
 - [Comma operator](comma)
 - [Void](void)
-- [Optional chaining](optiona-chaining)
+- [Optional chaining](optional-chaining)
 - [Nullish coalescing](nullish-coalescing)
 - [Logical nullish assignment](logical-nullish-assignment)
 - [Typeof vs Instanceof](typeof-instanceof)

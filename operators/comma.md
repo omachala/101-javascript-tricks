@@ -1,4 +1,4 @@
-### Comma
+### Comma operator
 
 > expert
 
