@@ -2,5 +2,6 @@
 
 ---
 
+- [Boolean](boolean)
 - [Infinity](infinity)
 - [Map](map)

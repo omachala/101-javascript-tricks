@@ -18,3 +18,4 @@ this is operators section description
 - [Logical nullish assignment](logical-nullish-assignment)
 - [Typeof vs Instanceof](typeof-instanceof)
 - [Bitwise](bitwise)
+- [new.target](new-target)

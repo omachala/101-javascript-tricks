@@ -12,7 +12,7 @@ true != false; // true
 0 == false; // true
 ```
 
-When you look at the last two examples you can notice that the results are `true` even the operands are not exactly the same. That's because the `==` and `!=` tries to convert operands to the same type before comparing.
+When you look at the last two examples you can notice that the results are `true` even the operands are not exactly the same. That's because the javascript engine tries to convert operands to the same type before comparing.
 
 Because of that the recommendation is to use exclusively the [Identity](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Strict_equality) `===` and [Nonidentity](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Strict_inequality) `!==` operators.
 
@@ -33,4 +33,4 @@ fruit === fruit; // true
 fruit === fruit2; // false
 ```
 
-The `fruit === fruit2` return `false` because both operands even looks the same pointing the different object (different address in the memory).
+The `fruit === fruit2` returns `false` because both operands (even look the same) point to the different object (different address in the memory).
